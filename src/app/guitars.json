@@ -1,0 +1,74 @@
+[
+  {
+    "id_guitar":1,
+    "brand": "Fender",
+    "model": "American Vintage II Telecaster",
+    "imgUrl": "G1.png",
+    "price": 42000,
+    "color": "Aged Natural",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":2,
+    "brand": "Gretsch",
+    "model": "G2430T Hollowbody",
+    "imgUrl": "G2.png",
+    "price": 12000,
+    "color": "Walnut Stain",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":3,
+    "brand": "Schecter",
+    "model": "C-1 Platinum EMG",
+    "imgUrl": "G3.png",
+    "price": 12000,
+    "color": "Satin Purple Burst",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":4,
+    "brand": "EVH",
+    "model": "Frankenstrat Floyd Rose",
+    "imgUrl": "G4.png",
+    "price": 40000,
+    "color": "Red Black and White",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":5,
+    "brand": "Fender",
+    "model": "Player II Stratocaster",
+    "imgUrl": "G5.png",
+    "price": 12000,
+    "color": "Blue Burst",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":6,
+    "brand": "Schecter",
+    "model": "Synyster Gates",
+    "imgUrl": "G6.png",
+    "price": 30000,
+    "color": "Gold Burst",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":7,
+    "brand": "Gibson",
+    "model": "Les Paul 60´s Cream",
+    "imgUrl": "G7.png",
+    "price": 12000,
+    "color": "Tobacco Sunburst",
+    "strings": "6 cuerdas"
+  },
+  {
+    "id_guitar":8,
+    "brand": "Fender",
+    "model": "Kurt Cobain Jaguar",
+    "imgUrl": "G8.png",
+    "price": 32000,
+    "color": "Sunburst",
+    "strings": "6 cuerdas"
+  }
+]
